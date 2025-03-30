@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vidya S</h1>
-<h3 align="center">🚀 Full Stack Developer Architecting Scalable, Cutting-Edge Web : 🚀 Full Stack Developer | Passionate about crafting dynamic, efficient, and scalable web applications, I specialize in both frontend and backend development, seamlessly bridging design and functionality. With 1+ year of experience, I have successfully built and deployed billing software, HRMS platforms, and a unique CIBIL score-generating web application. 💡 Expertise & Technologies: 🔹 Frontend: HTML, CSS, JavaScript, Bootstrap, React.js 🔹 Backend & Databases: PHP, Java, MySQL 🔹 Tools & Platforms: Postman, VS Code, Eclipse, Jira, Chrome DevTools 🔹 APIs & Integrations: RESTful APIs, Razorpay, SMS & WhatsApp API Currently, I am focused on architecting intelligent, high-performance applications that push boundaries and drive innovation. Always eager to explore new technologies and enhance user experiences through clean, efficient code. Software Solutions</h3>
+<h3 align="center">🚀 Full Stack Developer Architecting Scalable, Cutting-Edge Web</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vidyas2&label=Profile%20views&color=0e75b6&style=flat" alt="vidyas2" /> </p>
 
